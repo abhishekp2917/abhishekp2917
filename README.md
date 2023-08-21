@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AWS and Jenkins**
 
-- 💬 Ask me about **MySQL, NodeJS, Express, python,**
+- 💬 Ask me about **MSSQL, MongoDB, SpringBoot, Hibernate, SpringData JPA, JAVA**
 
 - 📫 How to reach me **abhishekp2917@gmail.com**
 
